@@ -7,7 +7,7 @@ projeto de robõ seguidor de linha com arduino
 
 ### 🔧 Montagem
 ![Solda](img/solda.jpeg)
-![Sensor](img/vendo_sensor.jpeg)
+![Sensor](img/leitura.jpeg)
 
 ### 🤖 Carrinho
 ![Carrinho](img/carrinho.jpeg)
